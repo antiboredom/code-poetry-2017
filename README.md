@@ -2,16 +2,25 @@
 
 Sam Lavigne, SFPC, Fall 2017
 
+##
+
+Summary: In this two-session class we'll be covering how to make use of found material, specifically text, to create new artistic works.
+
 ## Topics
 
 * Getting input / reading files
 * Parsing and generating text
 * Writing modules
-* Installing external modules
+* Installing external modules (and a quick survey of fun Python libraries)
 * Basic natural language processing with TextBlob
 * Scraping material with BeautifulSoup and Selenium
+* Calling external programs
 * Writing command line programs
-* Basic bots
+
+## Optional Topics
+* Manipulating and creating images
+* Manipulating and creating video
+* Intro to bots
 
 ## Readings
 
