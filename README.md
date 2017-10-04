@@ -11,6 +11,7 @@ Summary: In this two-session class we'll be covering how to make use of found ma
 * Getting input / reading files
   * `sys.stdin`
   * `open`
+* Review lists
 * Parsing and generating text
   * Tokenizing: `somestring.split(' ')`
   * Find and replace: `somestring.replace('hello', 'goodbye')`
@@ -26,6 +27,7 @@ Summary: In this two-session class we'll be covering how to make use of found ma
   * sentiment
   * n-grams
   * word definitions and synsets
+* Dictionaries
 * Scraping material with BeautifulSoup and Selenium
   * brief intro to HTML & CSS
   * using beautifulsoup
