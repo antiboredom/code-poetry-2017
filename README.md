@@ -9,18 +9,48 @@ Summary: In this two-session class we'll be covering how to make use of found ma
 ## Topics
 
 * Getting input / reading files
+  * `sys.stdin`
+  * `open`
 * Parsing and generating text
+  * Tokenizing: `somestring.split(' ')`
+  * Find and replace: `somestring.replace('hello', 'goodbye')`
 * Writing modules
-* Installing external modules (and a quick survey of fun Python libraries)
+* Installing external modules
+  * creating a virtualenv: `virtualenv env`
+  * activing: `source env/bin/active`
+  * installing with pip: `pip install somelibrary`
 * Basic natural language processing with TextBlob
+  * words
+  * sentences
+  * parts of speech
+  * sentiment
+  * n-grams
+  * word definitions and synsets
 * Scraping material with BeautifulSoup and Selenium
-* Calling external programs
-* Writing command line programs
+  * brief intro to HTML & CSS
+  * using beautifulsoup
+  * using selenium
 
 ## Optional Topics
+* Calling external programs
+* Writing command line programs
 * Manipulating and creating images
 * Manipulating and creating video
 * Intro to bots
+
+
+## Fun and/or useful python libraries
+* moviepy - edit video
+* pillow - edit images
+* flask - web server
+* twython - use the twitter api
+* spacy - natural language processing
+* requests - easy http requests
+* envelopes - send email
+* youtube-dl - download videos
+* opencv - computer vision
+* asciimatics - text-based interfaces and animation
+* colorama - easy color in the terminal
 
 ## Readings
 
