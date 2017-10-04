@@ -2,7 +2,7 @@
 
 Sam Lavigne, SFPC, Fall 2017
 
-##
+----
 
 Summary: In this two-session class we'll be covering how to make use of found material, specifically text, to create new artistic works.
 
