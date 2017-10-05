@@ -42,17 +42,17 @@ Summary: In this two-session class we'll be covering how to make use of found ma
 
 
 ## Fun and/or useful python libraries
-* moviepy - edit video
-* pillow - edit images
-* flask - web server
-* twython - use the twitter api
-* spacy - natural language processing
-* requests - easy http requests
-* envelopes - send email
-* youtube-dl - download videos
-* opencv - computer vision
-* asciimatics - text-based interfaces and animation
-* colorama - easy color in the terminal
+* [moviepy](http://zulko.github.io/moviepy/) - edit video
+* [pillow](https://python-pillow.org/) - edit images
+* [flask](http://flask.pocoo.org/) - web server
+* [twython](https://github.com/ryanmcgrath/twython) - use the twitter api
+* [spacy](https://github.com/ryanmcgrath/twython) - natural language processing
+* [requests](http://docs.python-requests.org/en/master/) - easy http requests
+* [envelopes](http://tomekwojcik.github.io/envelopes/) - send email
+* [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos
+* [opencv](http://opencv.org/) - computer vision
+* [asciimatics](https://github.com/peterbrittain/asciimatics) - text-based interfaces and animation
+* [colorama](https://github.com/tartley/colorama) - easy color in the terminal
 
 ## Readings
 
