@@ -41,6 +41,12 @@ Summary: In this two-session class we'll be covering how to make use of found ma
 * Intro to bots
 
 
+## Quick Guides
+* [python basics](https://github.com/antiboredom/code-poetry-2017/blob/master/python_basics.md)
+* [HTML & CSS](https://github.com/antiboredom/code-poetry-2017/blob/master/HTML.md)
+* [command line basics](https://github.com/antiboredom/code-poetry-2017/blob/master/command_line.md)
+
+
 ## Fun and/or useful python libraries
 * [moviepy](http://zulko.github.io/moviepy/) - edit video
 * [pillow](https://python-pillow.org/) - edit images
